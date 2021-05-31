@@ -1,0 +1,27 @@
+.container {
+  border: 3px solid green;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  position: static;
+}
+
+.header {
+  text-align:center;
+}
+
+.elephant {
+  width: 25%;
+  display: block;
+  margin: auto;
+}
+
+.bunny {
+  width: 25%;
+  float: left;
+  padding: 3px;
+}
+
+.message {
+
+}
